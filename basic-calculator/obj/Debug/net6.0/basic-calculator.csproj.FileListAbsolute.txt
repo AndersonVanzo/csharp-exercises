@@ -1,0 +1,15 @@
+C:\Users\ander\Documents\projects\csharp-exercises\basic-calculator\bin\Debug\net6.0\basic-calculator.exe
+C:\Users\ander\Documents\projects\csharp-exercises\basic-calculator\bin\Debug\net6.0\basic-calculator.deps.json
+C:\Users\ander\Documents\projects\csharp-exercises\basic-calculator\bin\Debug\net6.0\basic-calculator.runtimeconfig.json
+C:\Users\ander\Documents\projects\csharp-exercises\basic-calculator\bin\Debug\net6.0\basic-calculator.dll
+C:\Users\ander\Documents\projects\csharp-exercises\basic-calculator\bin\Debug\net6.0\basic-calculator.pdb
+C:\Users\ander\Documents\projects\csharp-exercises\basic-calculator\obj\Debug\net6.0\basic-calculator.csproj.AssemblyReference.cache
+C:\Users\ander\Documents\projects\csharp-exercises\basic-calculator\obj\Debug\net6.0\basic-calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\projects\csharp-exercises\basic-calculator\obj\Debug\net6.0\basic-calculator.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\projects\csharp-exercises\basic-calculator\obj\Debug\net6.0\basic-calculator.AssemblyInfo.cs
+C:\Users\ander\Documents\projects\csharp-exercises\basic-calculator\obj\Debug\net6.0\basic-calculator.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\projects\csharp-exercises\basic-calculator\obj\Debug\net6.0\basic-calculator.dll
+C:\Users\ander\Documents\projects\csharp-exercises\basic-calculator\obj\Debug\net6.0\refint\basic-calculator.dll
+C:\Users\ander\Documents\projects\csharp-exercises\basic-calculator\obj\Debug\net6.0\basic-calculator.pdb
+C:\Users\ander\Documents\projects\csharp-exercises\basic-calculator\obj\Debug\net6.0\basic-calculator.genruntimeconfig.cache
+C:\Users\ander\Documents\projects\csharp-exercises\basic-calculator\obj\Debug\net6.0\ref\basic-calculator.dll
