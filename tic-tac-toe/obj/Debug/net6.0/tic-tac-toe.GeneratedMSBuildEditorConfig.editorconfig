@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = basic_calculator
-build_property.ProjectDir = c:\Users\ander\Documents\projects\csharp-exercises\basic-calculator\
+build_property.RootNamespace = tic_tac_toe
+build_property.ProjectDir = C:\Users\ander\Documents\projects\csharp-exercises\tic-tac-toe\
